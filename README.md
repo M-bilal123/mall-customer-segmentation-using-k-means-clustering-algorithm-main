@@ -1,5 +1,3 @@
-# mall-customer-segmentation-using-k-means-clustering-algorithm-main
-Certainly! Here's an updated version of the README file that includes information about Jupyter Notebook, NumPy, Seaborn, and scikit-learn, along with instructions on how to install these dependencies:
 
 # Mall Customer Segmentation using K-Means Clustering Algorithm
 
